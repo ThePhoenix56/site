@@ -21,7 +21,7 @@
                 document.getElementById("hours").innerHTML = ""
                 document.getElementById("minutes").innerHTML = ""
                 document.getElementById("seconds").innerHTML = ""
-                document.getElementById("carepack").innerHTML = "50, 69, -250";
+                document.getElementById("carepack").innerHTML = "-5979 -52 -7365";
                 document.getElementById("when").innerHTML = "";
                 document.getElementById("done").innerHTML = "The care-package has been dropped! You can find it at:";
             }
