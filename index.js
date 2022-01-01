@@ -1,5 +1,5 @@
         // time
-        var countdown = new Date("January 1, 2022 18:00:00 GMT+00:00").getTime();
+        var countdown = new Date("January 31, 2022 18:00:00 GMT+00:00").getTime();
         // make sure it runs every sec
         var updater = setInterval(function () {
             var now = new Date().getTime();
